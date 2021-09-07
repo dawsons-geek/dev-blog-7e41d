@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Dawson Richey Developer
-  description: The preview of the Fresh theme
+  description: Dawson Richey Developer
   extra:
     - name: 'og:type'
       value: website
