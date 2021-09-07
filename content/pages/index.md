@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:title'
       value: Dawson Richey Developer
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Dawson Richey Developer
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
